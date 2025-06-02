@@ -1,4 +1,4 @@
-#Ler doi numeros e mostrar a soma deles
+#Ler doi números e mostrar a soma deles
 
 num1 = int(input('digite o primeiro número: ')) #variavel do primeiro número
 num2 = int(input('digite o segundo número: ')) #variavel do segundo número
